@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(197, 189, 189);
+    text-align: center;
+}
+
+img {
+    max-width: 600px;
+}
+
+.button {
+    cursor: pointer;
+}
